@@ -58,7 +58,7 @@ Zeeble is a **self-hostable messaging platform** that gives communities Discord-
 | | Discord | Slack | TeamSpeak | Revolt/Stoat | Root | Matrix/Element | **Zeeble** |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Self-hostable | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ |
-| Managed cloud hosting | ✅ | ✅ | ❌ | Partial | ✅ | ❌ | ✅ |
+| Managed cloud hosting | ✅ | ✅ | ❌ | Partial | ✅ | ❌ | 🚧 WIP |
 | Voice + text in one app | ✅ | Partial | Voice only | ✅ | ✅ | ✅ | ✅ |
 | Open source backend | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ |
 | Texture packs & custom themes | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
