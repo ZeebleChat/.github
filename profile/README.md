@@ -63,7 +63,7 @@ Zeeble is a **self-hostable messaging platform** that gives communities Discord-
 | Open source backend | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ |
 | Texture packs & custom themes | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | Bot / extension API | ✅ | ✅ | ❌ | Partial | Community apps | ✅ | 🚧 WIP |
-| 18+ server age verification | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ (v0.2.0) |
+| 18+ server age verification | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 🚧 WIP |
 | No user caps on self-hosted | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ |
 | Client app under 50MB RAM | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ |
 | Easy setup for non-technical users | ✅ | ✅ | Partial | Partial | ✅ | ❌ | ✅ |
